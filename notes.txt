@@ -15,3 +15,15 @@ what is happening in the repository
 
 git pull
 pulls the the thing on github to pc.
+
+git log
+logs stuff
+
+git reset hard <commit>
+revert to older state
+
+git branch
+reveals branch u are in
+
+git checkout -b "branchname"
+creates new branch
