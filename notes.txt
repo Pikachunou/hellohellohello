@@ -1,0 +1,17 @@
+git clone <url> 
+is to download the repository to your computer
+
+git add <filename>
+to add the file to commit line.
+
+git commit -m "message"
+to save a snapshot of the files you added.
+
+git init
+needed command for cloning repository.
+
+git status
+what is happening in the repository
+
+git pull
+pulls the the thing on github to pc.
